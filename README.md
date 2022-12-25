@@ -8,5 +8,5 @@ npm i express mongoose
 install nodemon:
 npm i -D nodemon
 
-excute the project:
+execute the project:
 nodemon server.js
